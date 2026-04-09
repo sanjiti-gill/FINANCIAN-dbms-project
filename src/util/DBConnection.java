@@ -13,7 +13,7 @@ public class DBConnection {
     // ===== CONFIGURE THESE VALUES =====
     private static final String URL      = "jdbc:mysql://localhost:3306/financian";
     private static final String USER     = "root";       // your MySQL username
-    private static final String PASSWORD = "Manu@2602"; // your MySQL password
+    private static final String PASSWORD = "yourpassword123"; // your MySQL password
     // ==================================
 
     private static Connection connection = null;
